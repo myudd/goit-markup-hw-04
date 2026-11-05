@@ -43,6 +43,9 @@
 .address-contacts-link:focus{
     color: #404BBF;
 }
+.nav-item-link.active-link{
+    color: #404bbf;
+}
 .nav-item-link.active-link::after{
     content: "";
     position: absolute;
