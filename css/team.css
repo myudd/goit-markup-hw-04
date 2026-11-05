@@ -22,6 +22,7 @@
     color: #434455;
     font-weight: 400;
     font-size: 16px;
+    margin-bottom: 8px;
 }
 .team-card-text{
     padding: 32px 16px;
@@ -37,11 +38,15 @@
     align-items: center;
     justify-content: center;
     gap: 0 24px;
-    padding: 24px 0;
+    padding-bottom: 24px;
 }
-.icons-link{
+.icons-item{
     width: 40px;
     height: 40px;
+}
+.icons-link{
+    width: 100%;
+    height: 100%;
     border-radius: 20px;
     background-color: #4d5ae5 ;
     display: flex;
